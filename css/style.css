@@ -1,0 +1,30 @@
+body {
+  background: url('../images/LilyPads.jpg');
+  background-size: cover;
+}
+
+ul.skills {
+  list-style-type: square;
+}
+
+ul.no_bullet{
+  list-style-type: none;
+}
+
+#container {
+  margin-top: 75px;
+  margin-left: 75px;
+}
+
+#name {
+  font-family: 'Days One', 'DejaVu Sans', sans-serif;
+  color: #4C2111;
+  padding: 10px;
+  text-align: center;
+}
+
+.set_apart{
+  text-align: center;
+  padding: 20px;
+}
+
